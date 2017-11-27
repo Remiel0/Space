@@ -1,2 +1,2 @@
-# SpaceShip
-This is a game project, just fly
+# Space
+This is a game project, just for dream
